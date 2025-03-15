@@ -1,3 +1,10 @@
+# trouble shooting
+
+```bash
+sudo apt install libcgal-dev libeigen3-dev
+pip install trimesh[all]
+```
+
 # Object URDFs
 
 This repository contains a collection of object models for simulation, along with helper scripts for downloading, generating and tidying the required files.
